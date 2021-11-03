@@ -35,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)]()
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-trfx&repo=PublicBot&theme=nightowl)](https://github.com/muhammed-trfx/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=muhammed-trfx&repo=taurus_bot&theme=nightowl)](https://github.com/muhammed-trfx/taurus_bot)
   </div>
     
 ## Setup
@@ -51,6 +51,7 @@ Click WA logo to Join Support Group 👇
 <br>
 <br >
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
+
 ```
 bash <(curl -L https://t.ly/tHxh)
 ``` 
